@@ -1,0 +1,3 @@
+<?php
+$nomeFile = "sprite.png";
+?>

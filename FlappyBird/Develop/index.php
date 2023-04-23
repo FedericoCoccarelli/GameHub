@@ -15,9 +15,9 @@
 <body>
 	<button value="listfiles.php">List Files</button>
 	<button value="upload.php">Upload</button>
+	<button value="form.php">Update Form</button>
 	<button value="info.php">Info</button>
 	<button value="phpinfo.php">PHP Info</button>
-	
 	<div id="risultato"></div>
 </body>
 </html>

@@ -1,5 +1,5 @@
 <?php
-include('php/imagename.php')
+include('develop/imagename.php')
 ?>
 
 <!doctype html>

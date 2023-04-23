@@ -30,9 +30,12 @@ function initSprites(img,img2) {
 		//new Sprite(img2, 156, 115, 17, 12),
 		//new Sprite(img2, 156, 128, 17, 12),
 		//new Sprite(img2, 156, 141, 17, 12)
-		new Sprite(img2, 0, 0, 17, 12),
-		new Sprite(img2, 0, 0, 17, 12),
-		new Sprite(img2, 0, 0, 17, 12)
+		//new Sprite(img2, 0, 0, 17, 12),
+		//new Sprite(img2, 0, 0, 17, 12),
+		//new Sprite(img2, 0, 0, 17, 12)
+		new Sprite(img2, 0, 0, img2.width/2, img2.height/2),
+		new Sprite(img2, 0, 0, img2.width/2, img2.height/2),
+		new Sprite(img2, 0, 0, img2.width/2, img2.height/2)
 	];
 	
 	s_bg = new Sprite(img,   0, 0, 138, 114);

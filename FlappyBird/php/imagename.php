@@ -1,3 +1,0 @@
-<?php
-$imagename = "sprite.png"
-?>
