@@ -1,7 +1,7 @@
 <?php
-error_reporting(E_ALL);
-ini_set('display_errors', '1');
-echo getcwd();
+//error_reporting(E_ALL);
+//ini_set('display_errors', '1');
+//echo getcwd();
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $uploadDir = 'img/'; // set the directory to save uploaded files
     $fileName = basename($_FILES['uploadedFile']['name']);
@@ -52,7 +52,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <title>Upload Image (Max 50x50)</title>
 </head>
 <body>
-    <h2>Upload Image and Extract Metadata</h2>
+    <h2>Upload Image and (Max 50x50 Pixels)</h2>
     <form action="" method="post" enctype="multipart/form-data">
         <input type="file" name="uploadedFile" required>
         <input type="submit" name="submit" value="Upload">
