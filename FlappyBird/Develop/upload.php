@@ -49,7 +49,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Upload Image and Extract Metadata</title>
+    <title>Upload Image (Max 50x50)</title>
 </head>
 <body>
     <h2>Upload Image and Extract Metadata</h2>
