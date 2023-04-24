@@ -305,8 +305,9 @@ main();
 </script>
 
 </body>
+
 <footer class="bg-dark">
-      <p><h3></h3><br>
+      <p><h3 style="text-align: center;">Best Score : ∞ (Kalac)</h3><br>
        
     </footer>
 </html>

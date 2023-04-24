@@ -10,7 +10,7 @@
 				$("#risultato").load(file);
 			});
 		});
-	</script>
+	</script>                  
 </head>
 <body>
 	<button value="listfiles.php">List Files</button>
