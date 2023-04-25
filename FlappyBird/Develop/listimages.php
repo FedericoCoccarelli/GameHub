@@ -1,5 +1,5 @@
 <?php
-$dir = '/var/www/html/GameHub/FlappyBird/Develop/img';
+$dir = '/var/www/html/FlappyBird/Develop/img';
 $files = scandir($dir);
 
 print_r($files);
