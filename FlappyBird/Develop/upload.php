@@ -46,17 +46,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 }
 ?>
 
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Upload Image (Max 50x50)</title>
-</head>
-<body>
-    <h2>Upload Image and (Max 50x50 Pixels)</h2>
-    <form action="" method="post" enctype="multipart/form-data">
-        <input type="file" name="uploadedFile" required>
-        <input type="submit" name="submit" value="Upload">
-    </form>
-</body>
-</html>
-
