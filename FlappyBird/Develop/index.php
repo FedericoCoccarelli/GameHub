@@ -14,8 +14,8 @@
 </head>
 <body>
 	<button value="listimages.php">List Images</button>
-	<button value="upload.php">Upload</button>
-	<button value="formupload.html">Update Form</button>
+	<button value="formupload.html">Upload</button>
+	<button value="update.php">Update Form</button>
 	<button value="info.php">Info</button>
 	<button value="phpinfo.php">PHP Info</button>
 	<div id="risultato"></div>
