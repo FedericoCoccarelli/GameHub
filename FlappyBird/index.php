@@ -1,5 +1,5 @@
 <?php
-include('Develop/imagename.php')
+include('develop/imagename.php')
 ?>
 
 <!doctype html>
@@ -239,7 +239,7 @@ function main(){
 	 } 
 	 
 	 //img.src="sheet.png"
-	 img2.src="Develop/img/"+"<?php echo $imagename; ?>";
+	 img2.src="develop/img/"+"<?php echo $imagename; ?>";
 	 img.src="sheet.png"
 	 
 	 
