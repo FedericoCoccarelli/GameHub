@@ -17,7 +17,6 @@
 	<button value="formupload.html">Upload</button>
 	<button value="update.php">Update Form</button>
 	<button value="info.php">Info</button>
-	<button value="phpinfo.php">PHP Info</button>
 	<div id="risultato"></div>
 </body>
 </html>
